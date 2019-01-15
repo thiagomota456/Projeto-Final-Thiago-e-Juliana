@@ -1,0 +1,6 @@
+Olá somos o  Thiago e a Juliana.
+
+Não usamos o arquivo AutoresLivroEditora.txt. Tentei encaixar na minha lógica, mas achei que ficou meio desnecessário para a forma com que implementei meu programa. Você chegou a me esplicar 3 vezes como usar o arquivo, mas mesmo assim achei que a forma que resolvi ficou mais prática (pra mim).
+
+Obrigado.
+
